@@ -77,5 +77,5 @@ version: 1
 
 ## Verified
 
-- [ ] Run against a real target in `app/`
-- [ ] Agent stayed in scope; acceptance criteria met
+- [x] Run against a real target in `app/`
+- [x] Agent stayed in scope; acceptance criteria met
