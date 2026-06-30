@@ -1,6 +1,6 @@
 ---
 name: write-docs
-description: write documentations for functions in money.ts
+description: write documentation for functions in money.ts
 version: 1
 ---
 

@@ -67,6 +67,12 @@ version: 1
 - Insert new it() blocks inside the existing describe() block for each function.
 - No explanations, no markdown — only TypeScript code.
 </output_format>
+
+<stop>
+- Stop after returning the updated file — do not suggest additional test cases.
+- Do not explain why each test was chosen.
+- Do not output anything after the closing TypeScript code block.
+</stop>
 ```
 
 ## Tool-fit notes

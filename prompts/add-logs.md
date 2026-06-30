@@ -76,6 +76,12 @@ version: 1
 - Return the complete updated src/money.ts.
 - No explanations, no markdown — only TypeScript code.
 </output_format>
+
+<stop>
+- Stop after returning the updated file — do not suggest further logging improvements.
+- Do not add comments explaining why a log was placed.
+- Do not output anything after the closing TypeScript code block.
+</stop>
 ```
 
 ## Tool-fit notes
