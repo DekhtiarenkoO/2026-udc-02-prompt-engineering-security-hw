@@ -1,10 +1,10 @@
 ---
-name: debug
+name: debug-issue
 description: Diagnose a runtime error from a log message or stack trace — find root cause in src/money.ts without guessing. Use when you have a real error from production or test output.
 version: 1
 ---
 
-# Debug
+# Debug issue
 
 ## Baseline (weak) — what you started from
 
